@@ -18,5 +18,4 @@ The model analyzes the following inputs (kg per ^3$):
 ## 📈 Engineering Impact
 Predicting strength using AI allows for **optimized mix designs**, reducing material waste and improving structural safety in civil and metallurgical applications.
 
----
-*Developed as part of my Data Analytics portfolio at MANIT Bhopal.*
+
